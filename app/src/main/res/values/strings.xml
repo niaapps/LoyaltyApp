@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RewardsApp</string>
+    <string name="welcome">Hello! Welcome to the Rewards App. Let\'s create an account.</string>
+    <string name="BorC">I am a &#8230;</string>
+    <string name="biz">Business</string>
+    <string name="user">Customer</string>
+    <string name="already">Already have an account?</string>
+    <string name="SignIn">Sign In.</string>
+    <string name="bizN">Business Name</string>
+    <string name="bizL">Address</string>
+    <string name="num">Phone Number</string>
+    <string name="em">Email</string>
+    <string name="pw">Password</string>
+    <string name="eex">example@example.com</string>
+    <string name="numex">(XXX)-XXX-XXXX</string>
+</resources>
