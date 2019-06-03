@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.mongodb:embedded-android:4.0.10@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/embedded-android-4.0.10.aar/ff2febef04a363b75c8ab5aaf91083cb/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/embedded-android-4.0.10.aar/ff2febef04a363b75c8ab5aaf91083cb/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mongodb/embedded-android/4.0.10/b38c9c9b87a91c7ecd1ea592ab2babb801911167/embedded-android-4.0.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
