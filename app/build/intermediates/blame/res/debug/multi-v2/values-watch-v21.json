@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\niaaw\\Documents\\Business\\Grant_Rheingold\\RewardsApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v21\\values-watch-v21.xml",
+            "outputFile": "C:\\Users\\niaaw\\Documents\\Business\\Grant_Rheingold\\LoyaltyApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v21\\values-watch-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\niaaw\\.gradle\\caches\\transforms-2\\files-2.1\\d9804587007bdfd0cbd5eaa9c17892ee\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "source": "C:\\Users\\niaaw\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\8a10130183b33a62e039d186855a7645\\res\\values-watch-v21\\values-watch-v21.xml",
                     "from": {
                         "startLines": "2,6,10",
                         "startColumns": "4,4,4",

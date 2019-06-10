@@ -1,4 +1,4 @@
-com.niaapplications.rewardsapp
+com.niaapplications.loyaltyapp
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -697,26 +697,10 @@ id async
 id av_title
 id barrier
 id beginning
-id bizC
-id bizCityTitle
-id bizEmail
-id bizEmailTitle
-id bizNTitle
-id bizName
-id bizNum
-id bizNumTitle
-id bizPw
-id bizPwTitle
-id bizS
-id bizSt
-id bizStAddTitle
-id bizStateTitle
-id bizZip
-id bizZipTitle
 id biztype
-id bkgbutn
 id blocking
 id bottom
+id button
 id button2
 id buttonPanel
 id cancel_action
@@ -775,7 +759,6 @@ id message
 id middle
 id multiply
 id never
-id nextbtn1
 id nextbtn3
 id nextbtn4
 id none
@@ -836,6 +819,7 @@ id text
 id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
+id textView
 id textView2
 id textView3
 id textView4
@@ -849,6 +833,7 @@ id tot_tilte
 id uniform
 id up
 id useLogo
+id userbtn
 id withText
 id wrap
 id wrap_content
@@ -891,7 +876,6 @@ layout activity_last
 layout activity_main
 layout activity_phone
 layout biz_pg2
-layout init_signup_activity
 layout notification_action
 layout notification_action_tombstone
 layout notification_media_action
@@ -915,6 +899,7 @@ layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round
 string Amount
+string BorC
 string Dollar_Sign
 string Prompt_phone
 string SignIn
