@@ -1,9 +1,12 @@
 package com.niaapplications.loyaltyapp;
 
+import java.lang.reflect.Array;
+
 public class Customer {
 
 private String usrNumber, usrEmail;
 private int points = 0;
+private Transaction [] transactions;
 
 
 public Customer(){
