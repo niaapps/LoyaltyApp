@@ -816,6 +816,7 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
+id sign_in
 id spacer
 id split_action_bar
 id spread
@@ -836,7 +837,6 @@ id text
 id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
-id textView2
 id textView3
 id textView4
 id time
@@ -971,6 +971,7 @@ string common_google_play_services_unknown_issue
 string eex
 string em
 string jna_library_appname
+string my_app_id
 string next
 string num
 string numex

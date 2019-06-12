@@ -33,7 +33,7 @@ public class test_db extends AppCompatActivity {
                 client.getServiceClient(RemoteMongoClient.factory, "mongodb-atlas");
 
         final RemoteMongoCollection<Document> coll =
-                mongoClient.getDatabase("<DATABASE>").getCollection("<COLLECTION>");
+                mongoClient.getDatabase("<Loyalty_App_Data>").getCollection("<Data_1.0>");
 
         client.getAuth().loginWithCredential(new AnonymousCredential()).continueWithTask(
                 new Continuation<StitchUser, Task<RemoteUpdateResult>>() {

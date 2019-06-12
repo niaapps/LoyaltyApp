@@ -426,6 +426,7 @@
     <string name="eex">example@ex.com</string>
     <string name="em">Email</string>
     <string name="jna_library_appname">JNA bindings</string>
+    <string name="my_app_id">loyaltyapp-vfamf</string>
     <string name="next">Next</string>
     <string name="num">Phone Number</string>
     <string name="numex">(XXX)-XXX-XXXX</string>

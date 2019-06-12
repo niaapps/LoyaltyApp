@@ -699,22 +699,22 @@ public final class R {
         public static final int search_voice_btn = 0x7f090097;
         public static final int select_dialog_listview = 0x7f090098;
         public static final int shortcut = 0x7f090099;
-        public static final int spacer = 0x7f09009d;
-        public static final int split_action_bar = 0x7f09009e;
-        public static final int src_atop = 0x7f0900a1;
-        public static final int src_in = 0x7f0900a2;
-        public static final int src_over = 0x7f0900a3;
-        public static final int start = 0x7f0900a5;
-        public static final int submenuarrow = 0x7f0900a7;
-        public static final int submit_area = 0x7f0900a8;
-        public static final int tabMode = 0x7f0900a9;
-        public static final int tag_transition_group = 0x7f0900aa;
-        public static final int tag_unhandled_key_event_manager = 0x7f0900ab;
-        public static final int tag_unhandled_key_listeners = 0x7f0900ac;
-        public static final int text = 0x7f0900ad;
-        public static final int text2 = 0x7f0900ae;
-        public static final int textSpacerNoButtons = 0x7f0900af;
-        public static final int textSpacerNoTitle = 0x7f0900b0;
+        public static final int spacer = 0x7f09009e;
+        public static final int split_action_bar = 0x7f09009f;
+        public static final int src_atop = 0x7f0900a2;
+        public static final int src_in = 0x7f0900a3;
+        public static final int src_over = 0x7f0900a4;
+        public static final int start = 0x7f0900a6;
+        public static final int submenuarrow = 0x7f0900a8;
+        public static final int submit_area = 0x7f0900a9;
+        public static final int tabMode = 0x7f0900aa;
+        public static final int tag_transition_group = 0x7f0900ab;
+        public static final int tag_unhandled_key_event_manager = 0x7f0900ac;
+        public static final int tag_unhandled_key_listeners = 0x7f0900ad;
+        public static final int text = 0x7f0900ae;
+        public static final int text2 = 0x7f0900af;
+        public static final int textSpacerNoButtons = 0x7f0900b0;
+        public static final int textSpacerNoTitle = 0x7f0900b1;
         public static final int time = 0x7f0900b4;
         public static final int title = 0x7f0900b5;
         public static final int titleDividerNoCustom = 0x7f0900b6;
@@ -818,8 +818,8 @@ public final class R {
         public static final int abc_shareactionprovider_share_with = 0x7f0d002a;
         public static final int abc_shareactionprovider_share_with_application = 0x7f0d002b;
         public static final int abc_toolbar_collapse_description = 0x7f0d002c;
-        public static final int search_menu_title = 0x7f0d0040;
-        public static final int status_bar_notification_info_overflow = 0x7f0d0041;
+        public static final int search_menu_title = 0x7f0d0041;
+        public static final int status_bar_notification_info_overflow = 0x7f0d0042;
     }
     public static final class style {
         private style() {}

@@ -24,8 +24,5 @@ public class Transaction {
         //time of day
     }
 
-
-
-
     }
 

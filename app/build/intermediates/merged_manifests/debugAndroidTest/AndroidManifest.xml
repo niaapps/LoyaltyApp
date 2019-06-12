@@ -3,7 +3,7 @@
     package="com.niaapplications.loyaltyapp.test" >
 
     <uses-sdk
-        android:minSdkVersion="24"
+        android:minSdkVersion="22"
         android:targetSdkVersion="28" />
 
     <instrumentation

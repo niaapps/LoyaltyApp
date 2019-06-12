@@ -5,7 +5,7 @@ import java.lang.reflect.Array;
 public class Customer {
 
 private String usrNumber, usrEmail;
-private int points = 0;
+private int points;
 private Transaction [] transactions;
 
 
@@ -20,4 +20,35 @@ public Customer(){
         this.points = points;
     }
 
+    public String getUsrNumber() {
+        return usrNumber;
+    }
+
+    public void setUsrNumber(String usrNumber) {
+        this.usrNumber = usrNumber;
+    }
+
+    public String getUsrEmail() {
+        return usrEmail;
+    }
+
+    public void setUsrEmail(String usrEmail) {
+        this.usrEmail = usrEmail;
+    }
+
+    public int getPoints() {
+        return points;
+    }
+
+    public void setPoints(int points) {
+        this.points = points;
+    }
+
+    public Transaction[] getTransactions() {
+        return transactions;
+    }
+
+    public void setTransactions(Transaction[] transactions) {
+        this.transactions = transactions;
+    }
 }
