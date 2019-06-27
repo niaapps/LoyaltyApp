@@ -11,7 +11,6 @@ anim abc_slide_out_bottom
 anim abc_slide_out_top
 anim abc_tooltip_enter
 anim abc_tooltip_exit
-array BizType
 array com_google_android_gms_fonts_certs
 array com_google_android_gms_fonts_certs_dev
 array com_google_android_gms_fonts_certs_prod
@@ -658,7 +657,6 @@ drawable notify_panel_notification_icon_bg
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 font asap
-font coustard
 id ALT
 id CTRL
 id Email
@@ -714,10 +712,8 @@ id bizPwEdit
 id bizSEdit
 id bizStEdit
 id bizZEdit
-id biztype
 id blocking
 id bottom
-id button2
 id buttonPanel
 id cancel_action
 id center
@@ -776,8 +772,8 @@ id middle
 id multiply
 id never
 id next_btn
+id nextbtn2
 id nextbtn3
-id nextbtn4
 id none
 id normal
 id notification_background
@@ -837,8 +833,8 @@ id text
 id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
+id textView
 id textView3
-id textView4
 id time
 id title
 id titleDividerNoCustom
@@ -848,6 +844,7 @@ id topPanel
 id tot_tilte
 id uniform
 id up
+id up_btn
 id useLogo
 id withText
 id wrap
@@ -961,15 +958,16 @@ string abc_toolbar_collapse_description
 string already
 string app_name
 string avPts
-string bType
 string biz
 string bizC
 string bizN
 string bizS
 string bizSt
+string bkg
 string common_google_play_services_unknown_issue
 string eex
 string em
+string info
 string jna_library_appname
 string my_app_id
 string next

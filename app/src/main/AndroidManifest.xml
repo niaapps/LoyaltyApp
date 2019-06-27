@@ -19,7 +19,26 @@
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
-        <activity android:name=".test_db">
+
+        <activity android:name=".SignUpActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+            </intent-filter>
+        </activity>
+        <activity android:name=".SignInActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+            </intent-filter>
+        </activity>
+        <activity android:name=".AmountActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+            </intent-filter>
+        </activity>
+        <activity android:name=".PhoneActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

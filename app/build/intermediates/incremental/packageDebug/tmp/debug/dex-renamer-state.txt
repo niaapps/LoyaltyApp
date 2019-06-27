@@ -1,4 +1,4 @@
-#Wed Jun 12 14:33:24 EDT 2019
+#Thu Jun 27 17:54:44 EDT 2019
 base.0=C\:\\Users\\niaaw\\Documents\\Business\\Grant_Rheingold\\LoyaltyApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
 path.1=classes.dex
 renamed.1=classes2.dex

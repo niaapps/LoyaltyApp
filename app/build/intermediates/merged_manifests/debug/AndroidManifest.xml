@@ -34,7 +34,12 @@
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
 
-        <activity android:name="com.niaapplications.loyaltyapp.test_db" >
+        <activity android:name="com.niaapplications.loyaltyapp.SignUpActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.niaapplications.loyaltyapp.SignInActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
             </intent-filter>

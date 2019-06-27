@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">LoyaltyApp</string>
+    <string name="app_name">Loyalty App</string>
     <string name="my_app_id">loyaltyapp-vfamf</string>
-    <string name="welcome">Hello! Welcome to the Rewards App. Let\'s create an account.</string>
+    <string name="welcome">Hello! Welcome to the Loyalty App. Let\'s create an account.</string>
     <string name="wb">Welcome Back!</string>
     <string name="Prompt_phone">Please enter your phone number, then hand back to the cashier after tapping \"Next\".</string>
     <string name="UserName">Name</string>
@@ -27,13 +27,8 @@
     <string name="eex">example@ex.com</string>
     <string name="numex">(XXX)-XXX-XXXX</string>
     <string name="next">Next</string>
-    <string name="bType">Business Type</string>
+    <string name="info">Now, you can set a background photo, like a logo. </string>
+    <string name="bkg">background</string>
 
-    <string-array name="BizType">
-        <item>Restaurant</item>
-        <item>Cafe</item>
-        <item>Bakery</item>
-        <item>Chain</item>
-    </string-array>
 
 </resources>
